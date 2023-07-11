@@ -28,3 +28,34 @@ a{
 .active{
     color: var(--color-primary)
 }
+
+ul {
+    list-style: none;
+}
+
+
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .main-header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  }
+
+  #nav_right ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  }
+
+  #nav_right ul li {
+    padding-left: 20px;
+  }
