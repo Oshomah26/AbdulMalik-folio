@@ -49,6 +49,10 @@ ul {
   padding: 0 20px;
   }
 
+  .main-header {
+    padding: 20px 0;
+  }
+
   #nav_right ul {
   display: flex;
   justify-content: space-between;
@@ -58,4 +62,10 @@ ul {
 
   #nav_right ul li {
     padding-left: 20px;
+  }
+
+  .main-hero {
+    font-size: 3.2rem;
+    line-height: 5.5rem;
+    font-weight:initial;
   }
