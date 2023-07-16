@@ -107,3 +107,16 @@ ul {
     margin-top: 8px;
     font-size: 0.75em;
   }
+
+  .bottom-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+
+  .skills {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 0;
+  }
