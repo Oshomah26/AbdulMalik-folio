@@ -115,8 +115,19 @@ ul {
     padding-bottom: 20px;
   }
 
-  .skills {
+  .services-text{
+    margin-top: 40px;
+    font-size: 200;
+    color: #bdbdbd;
+    font-style: italic;
+    font-size: 1.5em;
+  }
+
+
+  .skills-list {
     display: flex;
     justify-content: space-between;
     margin: 40px 0;
   }
+
+
