@@ -78,6 +78,13 @@ ul {
     text-transform: uppercase;
   }
 
+ .about-text{
+    font-size: 2rem;
+    line-height: 2.3rem;
+    font-weight:400;
+    text-transform: uppercase;
+  }
+
   .sub-hero {
     font-weight: 200;
     text-align: right;
@@ -133,9 +140,6 @@ ul {
     width: 12px;
   }
 
-  /* input[type=radio]:checked  {
-    border: 5px solid #0DFF92;
-  } */
   .bottom-div {
     display: flex;
     align-items: center;
