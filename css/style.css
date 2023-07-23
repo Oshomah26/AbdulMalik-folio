@@ -214,7 +214,21 @@ ul {
     color: var(--color-primary);
     text-transform: uppercase;
   }
+  .btn-2{
+    padding: 8px 16px;
+    border-radius: 24px;
+    border-style: none;
+    background-color: var(--color-secondary);
+    color: var(--color-primary);
+    text-transform: uppercase;
+  }
+
   .btn:hover {
+    background-color: #bdbdbd;
+    cursor: pointer;
+  }
+
+  .btn-2:hover {
     background-color: #bdbdbd;
     cursor: pointer;
   }
@@ -224,6 +238,23 @@ ul {
     justify-content: space-between;
     margin-bottom: 112px;
   }
+
+  .about{
+    margin-bottom: 48px;
+  }
+
+.about p {
+    font-weight: 200;
+    color: #bdbdbd;
+}
+
+.key-characteristics p {
+    font-weight: 200;
+    color: #bdbdbd;
+    font-style: italic;
+    font-size: larger;
+    margin-bottom: 8px;
+}
 
   .photo-malik img {
     height: 450px;
