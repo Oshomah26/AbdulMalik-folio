@@ -228,11 +228,6 @@ ul {
     cursor: pointer;
   }
 
-  .btn-2:hover {
-    background-color: #bdbdbd;
-    cursor: pointer;
-  }
-
 .about-section {
     display: flex;
     justify-content: space-between;
@@ -260,6 +255,7 @@ ul {
 .key-characteristics .btn-2{
     margin-bottom:8px;
     margin-right: 8px;
+    color: #565656;
 }
 
   .photo-malik img {
