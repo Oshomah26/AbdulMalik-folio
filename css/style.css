@@ -179,7 +179,7 @@ ul {
   .line{
     height: 1px;
     width:100%;
-    background-color: #bdbdbd;
+    background-color: #565656;
     margin: 80px 0;
   }
 
@@ -241,6 +241,7 @@ ul {
 
   .about{
     margin-bottom: 48px;
+    margin-right: 96px;
   }
 
 .about p {
@@ -254,6 +255,11 @@ ul {
     font-style: italic;
     font-size: larger;
     margin-bottom: 8px;
+}
+
+.key-characteristics .btn-2{
+    margin-bottom:8px;
+    margin-right: 8px;
 }
 
   .photo-malik img {
