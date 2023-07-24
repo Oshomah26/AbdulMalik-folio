@@ -275,7 +275,7 @@ ul {
   }
 
   .social-media a{
-    margin-left: 20px;
+    margin-left: 8px;
   }
 
 
@@ -316,7 +316,18 @@ ul {
     border-style: none;
     background-color: #3d3d3d;
     padding-left: 8px;
+    padding-right: 16px;
     color: #bdbdbd;
+    outline:indianred;
+}
+
+.form select{
+    display:inline;
+}
+
+.contact-info p{
+    font-size: 1.6rem;
+    font-weight: 200 ;
 }
 
 
@@ -345,6 +356,14 @@ ul {
         border-radius: 8px;
         margin-top: 32px;
       }
+    .gray-form .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .contact-info{
+        margin-top: 30px;
+    }
 
     
 
