@@ -340,13 +340,16 @@ ul {
     margin-bottom: 32px;
 }
 
-.project-details iframe{
-    margin-bottom: 48px;
+.project-vid{
     width: 1160;
     height:653;
     display: flex;
     flex-shrink: 1;
     border-radius: 8px;
+}
+
+.project-details iframe{
+    margin-bottom: 48px;
 }
 
 .about-project-title {
