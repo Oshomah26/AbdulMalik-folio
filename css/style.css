@@ -336,8 +336,27 @@ ul {
 
 .project-title{
     font-size: 2.5em;
-    text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+
+.project-details iframe{
+    margin-bottom: 48px;
+    width: 1160;
+    height:653;
+    display: flex;
+    flex-shrink: 1;
+    border-radius: 8px;
+}
+
+.about-project-title {
+    font-size: 1.3em;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+
+.project-body-text {
+    font-weight: 200;
 }
 
 
