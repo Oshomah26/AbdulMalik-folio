@@ -160,6 +160,7 @@ ul {
   .skills-list {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     margin: 40px 0;
   }
 
@@ -172,6 +173,7 @@ ul {
   }
 
   .skill-icon {
+    margin-top: 20px;
     font-weight: 200;
     text-transform: uppercase;
     font-size: 2rem;
@@ -374,6 +376,13 @@ ul {
     .project img{
         flex-grow: 1;
     }
+    .main-hero{
+      font-size: 2.5em;
+      line-height: 105%;
+    }
+    .sub-hero{
+      font-size:0.75em;
+    }
     .top-div2{
         display:flex;
     }
@@ -381,6 +390,10 @@ ul {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    }
+
+    .skills-list{
+      display: flex;
     }
 
     .photo-malik img {
@@ -397,8 +410,6 @@ ul {
     .contact-info{
         margin-top: 30px;
     }
-
-    
 
   }
 
