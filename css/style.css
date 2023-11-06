@@ -365,13 +365,6 @@ ul {
 }
 
 
-
-
-
-
-
-
-
   @media(max-width: 768px) {
     .project img{
         flex-grow: 1;
