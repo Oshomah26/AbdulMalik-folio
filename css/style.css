@@ -129,7 +129,7 @@ ul {
     margin-top: 8px;
     font-size: 0.75em;
   }
-  .radio-testi ::before {
+  /* .radio-testi ::before {
     accent-color: none;
     height: 12px;
     width: 12px;
@@ -139,6 +139,19 @@ ul {
     border: 5px solid #0DFF92;
     height: 12px;
     width: 12px;
+  } */
+
+  .carousel_button {
+    width: 10px;
+    height: 10px;
+    display: inline-block;
+    background: #565656;
+    border-radius: 50%;
+    margin: 0 5px;
+  }
+
+  .carousel_button_selected {
+    background: #bdbdbd;
   }
 
   .bottom-div {
