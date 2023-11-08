@@ -154,6 +154,15 @@ ul {
     background: #bdbdbd;
   }
 
+
+  .carousel_item-selected{
+    display: block;
+  }
+
+  .carousel_item {
+    display: none;
+  }
+
   .bottom-div {
     display: flex;
     align-items: center;
